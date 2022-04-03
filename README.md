@@ -10,6 +10,8 @@
 
 # Introduction
 
+**Le développement d'yNotes s'est arrêté depuis le 3 avril 2022 (cf [Discord](https://canary.discord.com/channels/734693484149080135/734714628344512542/960167052100898816)). Il n'y aura plus de support pour l'application.** Voilà pourquoi ce fork a été créé afin, pour les développeurs qu'ils le souhaitent, de maintenir l'application.
+
 **yNotes est un gestionnaire de notes, d'emploi du temps et de devoirs qui vous permet d'accéder à toutes vos informations scolaires dans une interface moderne et intuitive**.
 
 \*L'application actuelle est basée sur les APIs des sites **École Directe** et **Pronote\***.
